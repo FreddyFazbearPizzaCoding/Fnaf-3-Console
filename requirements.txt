@@ -1,0 +1,4 @@
+termios
+tty
+msvcrt
+colorama
